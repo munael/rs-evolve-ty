@@ -1,0 +1,6 @@
+[package]
+name = "evolving"
+version = "0.1.0"
+authors = ["James McGlashan <github@darkfox.id.au>"]
+
+[dependencies]
